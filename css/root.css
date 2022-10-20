@@ -210,7 +210,7 @@
   #navigation .hamburger-menu span {
     height: 2px;
     width: 1.875em;
-    background-color: #000;
+    background-color: rgb(12, 76, 172);
     display: block;
     position: absolute;
     left: 50%;
@@ -225,7 +225,7 @@
     display: block;
     height: 2px;
     width: 80%;
-    background: #000;
+    background: rgb(7, 55, 189);
     opacity: 1;
     top: -6px;
     left: 0;
@@ -322,10 +322,10 @@
     -webkit-transition-delay: .5s;
             transition-delay: .5s;
   }
-  #navigation #navbar-menu ul li a {
+  #navigation #navbar-menu ul li a { /* nav words */
     text-decoration: none;
     text-transform: uppercase;
-    color: #000;
+    color: rgb(0, 147, 251);
     font-size: 1.1875em;
     text-align: center;
     display: inline-block;
@@ -465,7 +465,7 @@
     text-transform: uppercase;
     position: relative;
     z-index: 1;
-    color: rgb(14, 105, 158);
+    color: rgb(228, 33, 7);
     -webkit-transition: color .3s;
     transition: color .3s;
   }
